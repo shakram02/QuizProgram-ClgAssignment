@@ -10,5 +10,5 @@ package assignment1.MainWindows;
  * @author Gehad
  */
 public class tryClass {
-    
+    // Hello, gehad
 }
