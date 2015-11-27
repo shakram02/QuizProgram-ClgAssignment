@@ -25,7 +25,7 @@ public class MainFrame extends javax.swing.JFrame
 
         this.pack();
 
-        // Get a handle to this frame
+        // Get a handle to this frame, don't remove this handle
         handle = this;
         thingsInWindow = this.getContentPane();
 
