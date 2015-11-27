@@ -24,7 +24,7 @@ public class ShortAnswer extends javax.swing.JFrame
     {
         initComponents();
 
-        // Set the JFrame to just hide and not to close the program when it's closed
+        int tryGit;
         this.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
 
         // Draw the window at the center of the screen
